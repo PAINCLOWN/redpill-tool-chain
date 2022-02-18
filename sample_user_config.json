@@ -3,7 +3,9 @@
     "pid": "0x1400",
     "vid": "0x0930",
     "sn": "2020PDN749100",
-    "mac1": "001132C5F949"
+    "mac1": "001132C5F949",
+    "SataPortMap": "12",
+    "DiskIdxMap": "0001"
   },
   "synoinfo": {
     "supportsystemperature": "no",
