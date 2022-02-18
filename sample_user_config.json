@@ -1,11 +1,16 @@
 {
     "extra_cmdline": {
-        "pid": "0x6387",
-        "vid": "0x058F",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+    "vid": "0x0930",
+    "pid": "0x1400",
+    "sn": "2020PDN749100",
+    "mac1": "001132C5F949",
+    "SataPortMap": "12",
+    "DiskIdxMap": "0001"
     },
-    "synoinfo": {"SataPortMap": "12","DiskIdxMap": "0001"},
+    "synoinfo": {
+        "supportsystemperature": "no",
+    "supportsystempwarning": "no",
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
