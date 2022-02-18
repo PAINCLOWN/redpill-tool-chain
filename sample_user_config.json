@@ -1,13 +1,18 @@
 {
-    "extra_cmdline": {
-        "pid": "0x1400",
-        "vid": "0x0930",
-        "sn": "2020PDN749100",
-        "mac1": "001132C5F949"
-    },
-    "synoinfo": {
-        "supportsystemperature": "no",
-    "supportsystempwarning": "no"},
-    "ramdisk_copy": {},
-    "extensions": []
+  "extra_cmdline": {
+    "pid": "0x1400",
+    "vid": "0x0930",
+    "sn": "2020PDN749100",
+    "mac1": "001132C5F949"
+  },
+  "synoinfo": {
+    "supportsystemperature": "no",
+    "supportsystempwarning": "no"
+  },
+  "ramdisk_copy": {
+    
+  },
+  "extensions": [
+    
+  ]
 }
