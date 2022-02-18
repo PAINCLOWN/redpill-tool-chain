@@ -5,7 +5,7 @@
     "sn": "2020PDN749100",
     "mac1": "001132C5F949",
     "SataPortMap": "12",
-    "DiskIdxMap": "0001"
+    "DiskIdxMap": "0001",
     },
     "synoinfo": {
         "supportsystemperature": "no",
